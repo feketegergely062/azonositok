@@ -1,0 +1,27 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+
+td{
+    width: 10px;
+    height: 10px;
+}
+
+td.sotet{
+    background-color: black;
+}
+/*input{
+    width: 1em;
+    text-align: center;
+}
+input:focus{
+    border: 2px solid red;
+    background-color: #fbbab7;
+    font-size: 1em;
+}
+*/
+taj-szam{
+    
+    display: inline;
+}
